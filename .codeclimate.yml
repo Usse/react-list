@@ -2,4 +2,4 @@ languages:
   JavaScript: true
 exclude_paths:
 - "node_modules/"
-- "bundle.js"
+- "hello/bundle.js"
